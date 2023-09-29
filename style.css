@@ -21,6 +21,7 @@ body {
 }
 .how{
     color: red;
+    text-align:center;
 }
 @media screen and (max-width:768px) {
     .how{
@@ -864,6 +865,10 @@ border-radius: 20px;
 }
 .enq:hover{
     background-color: blue;
+}
+@media screen and (max-width:768px){
+    .enq{
+        font-size:15px;
 }
 #label3{
     margin:10px 15px 10px 15px;
