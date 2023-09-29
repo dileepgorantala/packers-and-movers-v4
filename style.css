@@ -886,7 +886,7 @@ border-radius: 20px;
 }
 @media screen and (max-width:768px) {
     #label3{
-        width: 400px;
+        width: 300px;
     }
 }
 #label3{
@@ -933,8 +933,8 @@ border-radius: 20px;
 }
 @media screen and (max-width:768px) {
     .imag{
-        width: 450px;
-        height: 450px;
+        width: 400px;
+        height: 400px;
     }
 }
 .content {
