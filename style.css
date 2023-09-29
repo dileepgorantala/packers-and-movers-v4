@@ -869,6 +869,8 @@ border-radius: 20px;
 @media screen and (max-width:768px){
     .enq{
         font-size:15px;
+        margin-bottom:5px;
+    }
 }
 #label3{
     margin:10px 15px 10px 15px;
